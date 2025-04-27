@@ -1,0 +1,6 @@
+@VetAPI_APBD_HostAddress = http://localhost:5119
+
+GET {{VetAPI_APBD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
